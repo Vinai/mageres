@@ -117,6 +117,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [netz98 magerun CLI tools for Magento 1](https://github.com/netz98/n98-magerun) - Provides some handy tools to work with Magento from command line
 * [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - The swiss army knife for Magento 2 developers
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin) - A plugin for Magento 2 development in the PhpStorm IDE
+* [Magento 2 Cache Clean Filewatcher](https://github.com/mage2tv/magento-cache-clean) - A faster bin/magento cache:clean replacement with filewatcher
 
 ## Security
 * [Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files) - Pre Patched files for installing Magento Security Patches without SSH.
